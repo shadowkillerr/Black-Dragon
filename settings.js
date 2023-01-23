@@ -19,7 +19,7 @@ global.ownername = "° ๛𝐃𝐀𝐇𝐀𝐌 𝐏𝐀𝐍𝐒𝐈𝐋𝐔 ✧�
 global.ytname = "YT: 𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 " //ur yt chanel name
 global.socialm = "GitHub: dahampansil" //ur github or insta name
 global.location = "Sri Lanka, Anuradhapura, Kalaththawa" //ur location
-bo, Kiribathgoda" //ur location
+
 
 //bot bomdy 
 global.ownernomer = "94717069879" //ur number
