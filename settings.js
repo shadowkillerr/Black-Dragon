@@ -2,8 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -14,23 +14,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['94717069879'] //ur owner number
+global.ownername = "° ๛𝐃𝐀𝐇𝐀𝐌 𝐏𝐀𝐍𝐒𝐈𝐋𝐔 ✧ᖭ" //ur owner name
+global.ytname = "YT: 𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 " //ur yt chanel name
+global.socialm = "GitHub: dahampansil" //ur github or insta name
+global.location = "Sri Lanka, Anuradhapura, Kalaththawa" //ur location
+bo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.ownernomer = "94717069879" //ur number
+global.premium = ['94717069879'] //ur premium number
+global.botname = '𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/DSPhVEBnyS76wnUnB5JmM9" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@user-kt2jq3dw8f" //ur website to be displayed
+global.botscript = 'https://github.com/dahampansil/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur sticker watermark packname
+global.author = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur sticker watermark author
+global.wm = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur watermark
 
 // Other
 global.sessionName = 'session'
