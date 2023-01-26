@@ -22,13 +22,13 @@ global.location = "Sri Lanka, Anuradhapura, Kalaththawa" //ur location
 
 
 //bot bomdy 
-global.ownernomer = "94717069879" //ur number
-global.premium = ['94717069879'] //ur premium number
+global.ownernomer = "94710129998" //ur number
+global.premium = ['94710129998'] //ur premium number
 global.botname = '𝐒𝐇𝐀𝐃𝐎𝐖 𝐊𝐈𝐋𝐋𝐄𝐑 ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/DSPhVEBnyS76wnUnB5JmM9" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@user-kt2jq3dw8f" //ur website to be displayed
 global.botscript = 'https://github.com/dahampansil/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
+global.themeemoji = "😁" //ur theme emoji
 global.packname = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur sticker watermark packname
 global.author = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur sticker watermark author
 global.wm = "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙷𝙰𝙳𝙾𝚆 𝙺𝙸𝙻𝙻𝙴𝚁 𝚆𝙰 𝙱𝙾𝚃" //ur watermark
